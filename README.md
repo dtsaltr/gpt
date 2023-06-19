@@ -43,7 +43,7 @@ Và khi terminal của bạn xuất hiện ***username* đã online.** thì bạ
 
 ## 4. Những lệnh của bot:
 - Prefix mặc định của bot là: **/**. Bạn có thể thay prefix bạn muốn trong **config.js**.
-- **/ask [message]**: Để nói chuyện với bot (ChatGPT). Ví dụ: */ask ChatGPT là cái gì?*
+- **/ [message]**: Để nói chuyện với bot (ChatGPT). Ví dụ: */ ChatGPT là cái gì?*
 - **/roll [number]**: Ra số ngẫu nhiên với số tối đa là *[number]*. Ví dụ: */roll 300*
 - **/ping**: Kiểm tra độ trễ của bot. Độ trễ có thể sai do đồng hồ máy bạn.
 - **/uptime**: Xem thời gian chạy của bot.
